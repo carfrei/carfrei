@@ -24,7 +24,7 @@ Mi trabajo une la visión de negocio con la precisión técnica.
 
 ---
 
-## 🛡️ Certificaciones Clave
+## Certificaciones Clave
 * **Cybersecurity & Penetration Testing** (Hack The Box / TryHackMe)
 * **Inglés C2 Proficient** (EF SET)
   
@@ -49,8 +49,7 @@ Mi trabajo une la visión de negocio con la precisión técnica.
 
 ---
 ## Contacto
-<div align="center">
-  <a href="https://www.linkedin.com/in/carlos-freiermuth/">
+<div align="center"><a href="https://www.linkedin.com/in/carlos-freiermuth/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 <a href="mailto:carlosfreiermuth@gmail.com">
