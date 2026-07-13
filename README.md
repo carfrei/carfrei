@@ -57,8 +57,9 @@ Mi trabajo une la visión de negocio con la precisión técnica.
 </div>
 
 ---
+<div align="center">
 ## Contacto
-<div align="center"><a href="https://www.linkedin.com/in/carlos-freiermuth/">
+<a href="https://www.linkedin.com/in/carlos-freiermuth/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 <a href="mailto:carlosfreiermuth@gmail.com">
