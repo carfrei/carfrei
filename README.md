@@ -28,14 +28,20 @@ Mi trabajo une la visión de negocio con la precisión técnica.
 ---
 
 ## Certificaciones Clave
+* **Administracion de empresas con mencion en finanzas
+* **Ingenieria en sistemas
 * **Cybersecurity & Penetration Testing** (Hack The Box / TryHackMe)
 * **Inglés C2 Proficient** (EF SET)
+* **Google Addsense
+* **Reparacion y mantenimiento de equipos electronicos(Domotica)
+* **Make your own lab project
   
 ---
 
 ## Fuera del Teclado
-*   **Artista Digital**: Creo mundos en 8, 16 y 32 bits. Si no estoy auditando un sistema, estoy diseñando arte píxel.
-*   **Músico**: Baterista, vocalista y pronto guitarrista.
+*   **Artista Digital**: Creo mundos en píxel art, extraño? lo se.
+*   **Músico**: Baterista, vocalista y guitarrista.
+*   **Escritor**: Pronto estara mi primer libro en publicado.
 *   **Filosofía**: *"Construir con rigor, proteger con visión, escalar con propósito"*
 
 ---
