@@ -30,7 +30,7 @@ Mi trabajo une la visión de negocio con la precisión técnica.
 ## Certificaciones Clave
 * **Administracion de empresas con mencion en finanzas**
 * **Ingenieria en sistemas**
-* **Cybersecurity & Penetration Testing** (Hack The Box / TryHackMe)**
+* **Cybersecurity & Penetration Testing** (Hack The Box / TryHackMe)
 * **Inglés C2 Proficient** (EF SET)
 * **Google Addsense**
 * **Reparacion y mantenimiento de equipos electronicos(Domotica)**
