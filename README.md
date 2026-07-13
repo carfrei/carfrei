@@ -1,7 +1,6 @@
-Markdown
 <div align="center">
 
-# ¡Hola! Soy Carlos Freiermuth 👋
+# ¡Hola! Soy Carlos Freiermuth 
 
 <i>"Arquitecto de soluciones, estratega de seguridad y CTO."</i>
 
