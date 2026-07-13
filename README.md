@@ -1,10 +1,12 @@
-
-  # ¡Hola! Soy Carlos Freiermuth
-
-
+Markdown
 <div align="center">
-  <p><i>"Arquitecto de soluciones, estratega de seguridad y CTO."</i></p>
-  <p>Construyendo ecosistemas tecnológicos resilientes, escalables y seguros.</p>
+
+# ¡Hola! Soy Carlos Freiermuth 👋
+
+<i>"Arquitecto de soluciones, estratega de seguridad y CTO."</i>
+
+Construyendo ecosistemas tecnológicos resilientes, escalables y seguros.
+
 </div>
 
 ---
