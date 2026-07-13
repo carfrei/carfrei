@@ -1,4 +1,4 @@
-# <div align-"center">¡Hola! Soy Carlos Freiermuth </div>
+# ¡Hola! Soy Carlos Freiermuth
 
 <div align="center">
   <p><i>"Arquitecto de soluciones, estratega de seguridad y CTO."</i></p>
