@@ -15,15 +15,13 @@ Como **CTO y Cybersecurity Lead**, mi enfoque principal es transformar requisito
 
 Mi trabajo une la visión de negocio con la precisión técnica.
 
-## 🛠️ Tech Stack & Security Arsenal
-
-| Categoría | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | Python, TypeScript, Java, C#, SQL, HTML5, CSS3 |
-| **Frameworks** | Laravel, .NET Core, Angular, Astro, Flutter |
-| **Infra & DevOps** | Docker, Git, GitHub, Hostinger, Bash |
-| **Security & QA** | Burp Suite, OWASP ZAP, Postman, Selenium, Playwright |
-| **Data** | SQL Server, MySQL, Firebase |
+<div align="center">
+<img height="180em" src="https://dtidkb6w1s78u.cloudfront.net/api?username=drcarfrei&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+<img height="180em" src="https://dtidkb6w1s78u.cloudfront.net/api/top-langs/?username=drcarfrei&layout=compact&theme=dracula&hide_border=true" />
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drcarfrei&theme=dracula&hide_border=true" />
+</div>
 
 ---
 
